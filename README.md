@@ -7,11 +7,11 @@
 
 - 📦 Building small AI apps and demos [AI Project Hub](https://github.com/danlee-dev/ai-project-hub)
 
-- 🌱 currently learning **Deep Learning, Transformer architectures, diffusion models, retrieval-augmented generation (RAG), and multimodal AI systems**
-
 - 📑 Working on AI paper implementations [AI Paper Implementations](https://github.com/danlee-dev/ai-paper-implementations)
 
 - 🖥️ Archiving CS course projects [CS Core Labs](https://github.com/danlee-dev/cs-core-labs)
+
+- 🌱 currently learning **Deep Learning, Transformer architectures, diffusion models, retrieval-augmented generation (RAG), and multimodal AI systems**
 
 - 💬 Ask me **AI projects, research, or productivity tooling**
 
