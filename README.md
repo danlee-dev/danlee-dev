@@ -26,7 +26,6 @@
 - Deep Learning
 - Transformer architectures
 - Diffusion models
-- Retrieval-Augmented Generation (RAG)
 - Multimodal AI systems
 
 ---
