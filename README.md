@@ -9,6 +9,8 @@
 ---
 
 ### 📌 Projects
+- **[Industry-Academia Collaboration]()**
+  **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence
 
 - **[AI Project Hub](https://github.com/danlee-dev/ai-project-hub)**
   Building small AI apps and demos
