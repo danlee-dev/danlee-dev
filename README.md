@@ -23,7 +23,7 @@
 
 ---
 
-### 📖 Interests & Learning
+### Interests & Learning
 
 - Deep Learning
 - Transformer architectures
@@ -32,7 +32,7 @@
 
 ---
 
-### 💬 Contact
+### Contact
 
 - Reach me at: **hi.danleedev@gmail.com**
 - Ask me about: AI projects, research, or productivity tooling
