@@ -71,7 +71,7 @@ Developing multi-agent AI systems for food industry intelligence with Crowdworks
 </div>
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/target.svg" width="20" height="23" align="top"> Life Vision
-*"Building AI systems that change the world, one intelligent solution at a time."*
+*"Building AI systems that **change the world**, one intelligent solution at a time."*
 
 ### Connect With Me
 
