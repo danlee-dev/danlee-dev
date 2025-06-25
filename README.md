@@ -1,6 +1,6 @@
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" align="left" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=800&color=D84315&center=true&vCenter=true&width=500&height=200&lines=Hello+I'm+Daniel+Lee;Korea+University+CS;AI+%26+Full-Stack+Developer;Building+Smart+Systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=800&color=D84315&center=true&vCenter=true&width=500&height=200&lines=Hello+I'm+Daniel+Lee;Korea+University+CS;AI+%26+Full-Stack+Developer;Building+the+Future+with+AI!" alt="Typing SVG" />
   <br clear="all">
 </div>
 
