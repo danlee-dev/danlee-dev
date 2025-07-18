@@ -11,7 +11,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg" width="25" height="25" style="vertical-align: middle;"> Featured Projects
 
-**Industry-Academia Collaboration([go to repo](https://github.com/danlee-dev/crowdworks-ai-agent))**
+**Industry-Academia Collaboration([go to repo](https://github.com/danlee-dev/multiagent-rag-system.git))**
 * Developing a multi-agent RAG system for food industry intelligence with Crowdworks, utilizing crawlers, Graph DB, and Elasticsearch.
 
 **Mirae Asset AI Challenge([go to repo](https://github.com/danlee-dev/112-miraeasset-clova-ai-challenge.git))**
