@@ -9,12 +9,12 @@
 ### About Me
 Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently working on multi-agent systems and transformer architectures at Korea University.
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg" width="25" height="25" style="vertical-align: middle;"> Current Work
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg" width="25" height="25" style="vertical-align: middle;"> Featured Projects
 
-**Industry-Academia Collaboration**
+**Industry-Academia Collaboration([go to repo](https://github.com/danlee-dev/crowdworks-ai-agent))**
 * Developing a multi-agent RAG system for food industry intelligence with Crowdworks, utilizing crawlers, Graph DB, and Elasticsearch.
 
-**Mirae Asset AI Challenge**
+**Mirae Asset AI Challenge([go to repo](https://github.com/danlee-dev/112-miraeasset-clova-ai-challenge.git))**
 * Creating personalized investment insights via a Graph RAG system built with Playwright, and automatically generating avatar videos from the results.
   
 **Research Focus**  
@@ -22,7 +22,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 * Diffusion models
 * AI agent architectures  
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg" width="25" height="25" style="vertical-align: middle;"> Featured Projects
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg" width="25" height="25" style="vertical-align: middle;"> Projects HUB
 
 <table>
 <tr>
