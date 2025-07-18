@@ -11,13 +11,16 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg" width="25" height="25" style="vertical-align: middle;"> Current Work
 
-**Industry-Academia Collaboration**  
-Developing multi-agent AI systems for food industry intelligence with Crowdworks
+**Industry-Academia Collaboration**
+* Developing a multi-agent RAG system for food industry intelligence with Crowdworks, utilizing crawlers, Graph DB, and Elasticsearch.
 
+**Mirae Asset AI Challenge**
+* Creating personalized investment insights via a Graph RAG system built with Playwright, and automatically generating avatar videos from the results.
+  
 **Research Focus**  
-• Multimodal AI systems  
-• Diffusion models  
-• AI agent architectures  
+* Multimodal AI systems
+* Diffusion models
+* AI agent architectures  
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg" width="25" height="25" style="vertical-align: middle;"> Featured Projects
 
