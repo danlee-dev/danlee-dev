@@ -19,8 +19,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
   
 **Research Focus**  
 * Multimodal AI systems
-* Diffusion models
-* AI agent architectures  
+* RAG & LangGraph
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg" width="25" height="25" style="vertical-align: middle;"> Projects HUB
 
