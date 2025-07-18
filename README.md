@@ -26,7 +26,7 @@ Developing multi-agent AI systems for food industry intelligence with Crowdworks
 <td width="50%">
 
 **[Industry-Academia Collaboration](https://github.com/danlee-dev/crowdworks-ai-agent)**  
-- **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence  
+- **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence (Status: Private)
 - ***Technologies**: Python, RAG, LangChain, LangGraph*
 
 <br>
