@@ -28,7 +28,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 <td width="50%">
 
 **[Industry-Academia Collaboration](https://github.com/danlee-dev/crowdworks-ai-agent)**  
-- **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence (State: Private)
+- **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence **(State: Private)**
 - ***Technologies**: Python, RAG, LangChain, LangGraph*
 
 <br>
