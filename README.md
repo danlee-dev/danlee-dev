@@ -56,7 +56,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stackshare.svg" width="25" height="21" align="top"> Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,pytorch,react,nextjs,nodejs,mongodb,postgres,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,pytorch,react,nextjs,react-native,nodejs,mongodb,postgres,git&theme=dark" />
 </p>
 
 **Currently Learning:** Multimodal AI, Diffusion Models, Advanced Computer Architecture
