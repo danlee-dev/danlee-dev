@@ -9,7 +9,7 @@
 ### About Me
 Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently working on multi-agent systems and transformer architectures at Korea University.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" height="25" style="vertical-align: middle;"> Awards & Achievements
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/Flat/trophy_flat.svg" width="25" height="25" style="vertical-align: middle;"> Awards & Achievements
 
 **2025**
 - **Silver Medal** - Korea University Uni-con Startup Competition
