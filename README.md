@@ -9,7 +9,16 @@
 ### About Me
 Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently working on multi-agent systems and transformer architectures at Korea University.
 
+### <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Trophy.svg" width="25" height="25" style="vertical-align: middle;"> Awards & Achievements
+
+**2025**
+- **Silver Medal** - Korea University Uni-con Startup Competition
+  - Project: e:room - Smart Roommate Matching & Real Estate Management Platform
+
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg" width="25" height="25" style="vertical-align: middle;"> Featured Projects
+
+**Uni-con - e:room Platform([go to repo](https://github.com/danlee-dev/uni-con))**
+* Developed e:room, a smart roommate matching & real estate management platform for young adults, winning the Silver Medal at Korea University's Uni-con Startup Competition.
 
 **Industry-Academia Collaboration([go to repo](https://github.com/danlee-dev/multiagent-rag-system.git))**
 * Developing a multi-agent RAG system for food industry intelligence with Crowdworks, utilizing crawlers, Graph DB, and Elasticsearch.
@@ -27,18 +36,25 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 <tr>
 <td width="50%">
 
+**[Uni-con - e:room Platform](https://github.com/danlee-dev/uni-con)**  
+- **Silver Medal Winner**: Korea University Uni-con Startup Competition
+- **AI-Powered Roommate Matching**: 6-factor personality analysis & compatibility algorithm
+- ***Technologies**: React Native, FastAPI, RAG, OpenAI API, Google Gemini API, OCR, Google Maps*
+
+<br>
+
 **[Industry-Academia Collaboration](https://github.com/danlee-dev/crowdworks-ai-agent)**  
 - **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence **(State: Private)**
 - ***Technologies**: Python, RAG, LangChain, LangGraph*
 
-<br>
+</td>
+<td width="50%">
 
 **[AI Project Hub](https://github.com/danlee-dev/ai-project-hub)**  
 - **AI Service**: Building small AI apps and demos  
 - ***Technologies**: PyTorch, React, API Integration*
 
-</td>
-<td width="50%">
+<br>
 
 **[AI Paper Implementations](https://github.com/danlee-dev/ai-paper-implementations)**  
 - **Implementation of AI papers**: Transformer, ViT, Diffusion Models
