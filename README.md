@@ -20,7 +20,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 **Uni-con - e:room Platform([go to repo](https://github.com/danlee-dev/uni-con))**
 * Developed e:room, a smart roommate matching & real estate management platform for young adults, winning the Silver Medal at Korea University's Uni-con Startup Competition.
 
-**Industry-Academia Collaboration([go to repo](https://github.com/danlee-dev/multiagent-rag-system.git))**
+**Industry-Academia Collaboration([go to repo](https://github.com/danlee-dev/crowdworks-multiagent-system.git))**
 * Developing a multi-agent RAG system for food industry intelligence with Crowdworks, utilizing crawlers, Graph DB, and Elasticsearch.
 
 **Mirae Asset AI Challenge([go to repo](https://github.com/danlee-dev/112-miraeasset-clova-ai-challenge.git))**
@@ -43,9 +43,9 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 
 <br>
 
-**[Industry-Academia Collaboration](https://github.com/danlee-dev/crowdworks-ai-agent)**  
+**[Industry-Academia Collaboration](https://github.com/danlee-dev/crowdworks-multiagent-system.git)**  
 - **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence **(State: Private)**
-- ***Technologies**: Python, RAG, LangChain, LangGraph*
+- ***Technologies**: Next.js, FastAPI, Graph RAG, Vector RAG, LangGraph*
 
 </td>
 <td width="50%">
