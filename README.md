@@ -9,7 +9,7 @@
 ### About Me
 Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently working on multi-agent systems and transformer architectures at Korea University.
 
-### <img src="https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/assets/fill/trophy-fill.svg" width="25" height="25" style="vertical-align: middle;"> Awards & Achievements
+### <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/solid/trophy.svg" width="25" height="25" style="vertical-align: middle;"> Awards & Achievements
 
 **2025**
 - **Silver Medal** - Korea University Uni-con Startup Competition
