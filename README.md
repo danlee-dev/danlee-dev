@@ -9,13 +9,13 @@
 ### About Me
 Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently working on multi-agent systems and transformer architectures at Korea University.
 
-### <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/solid/trophy.svg" width="25" height="25" style="vertical-align: middle;"> Awards & Achievements
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/solid/trophy.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/trophy.svg"><img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/solid/trophy.svg" width="25" height="25" style="vertical-align: middle; filter: brightness(0) invert(1);"></picture> Awards & Achievements
 
 **2025**
 - **Silver Medal** - Korea University Uni-con Startup Competition
   - Project: e:room - Smart Roommate Matching & Real Estate Management Platform
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg" width="25" height="25" style="vertical-align: middle;"> Featured Projects
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/rocket.svg" width="25" height="25" style="vertical-align: middle; filter: invert(1);"></picture> Featured Projects
 
 **Uni-con - e:room Platform([go to repo](https://github.com/danlee-dev/uni-con))**
 * Developed e:room, a smart roommate matching & real estate management platform for young adults, winning the Silver Medal at Korea University's Uni-con Startup Competition.
@@ -30,7 +30,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 * Multimodal AI systems
 * RAG & LangGraph
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg" width="25" height="25" style="vertical-align: middle;"> Projects HUB
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/github.svg" width="25" height="25" style="vertical-align: middle; filter: invert(1);"></picture> Projects HUB
 
 <table>
 <tr>
@@ -39,45 +39,45 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 **[Uni-con - e:room Platform](https://github.com/danlee-dev/uni-con)**  
 - **Silver Medal Winner**: Korea University Uni-con Startup Competition
 - **AI-Powered Roommate Matching**: 6-factor personality analysis & compatibility algorithm
-- ***Technologies**: React Native, FastAPI, RAG, OpenAI API, Google Gemini API, OCR, Google Maps*
+- **Technologies**: React Native, FastAPI, RAG, OpenAI API, Google Gemini API, OCR, Google Maps
 
 <br>
 
 **[Industry-Academia Collaboration](https://github.com/danlee-dev/crowdworks-multiagent-system.git)**  
-- **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence **(State: Private)**
-- ***Technologies**: Next.js, FastAPI, Graph RAG, Vector RAG, LangGraph*
+- **Crowdworks x KU**: Multi-Agent AI System for Food Industry Intelligence (State: Private)
+- **Technologies**: Next.js, FastAPI, Graph RAG, Vector RAG, LangGraph
 
 </td>
 <td width="50%">
 
 **[AI Project Hub](https://github.com/danlee-dev/ai-project-hub)**  
 - **AI Service**: Building small AI apps and demos  
-- ***Technologies**: PyTorch, React, API Integration*
+- **Technologies**: PyTorch, React, API Integration
 
 <br>
 
 **[AI Paper Implementations](https://github.com/danlee-dev/ai-paper-implementations)**  
 - **Implementation of AI papers**: Transformer, ViT, Diffusion Models
-- ***Technologies**: PyTorch, Research Papers*
+- **Technologies**: PyTorch, Research Papers
 
 <br>
 
 **[CS Core Labs](https://github.com/danlee-dev/cs-core-labs)**  
 - **Core CS projects**: Logic Design, Multicycle, CPU Scheduler
-- ***Technologies**: C, Assembly, Verilog*
+- **Technologies**: C, Assembly, Verilog
 
 </td>
 </tr>
 </table>
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stackshare.svg" width="25" height="21" align="top"> Tech Stack
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stackshare.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stackshare.svg"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stackshare.svg" width="25" height="21" align="top" style="filter: invert(1);"></picture> Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,cpp,pytorch,react,nextjs,ts,nodejs,mongodb,postgres,git,aws,docker&theme=dark" />
 </p>
 
 **Currently Learning:** Multimodal AI, Diffusion Models, Advanced Computer Architecture
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/chartdotjs.svg" width="25" height="22" align="top"> GitHub Analytics
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/chartdotjs.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/chartdotjs.svg"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/chartdotjs.svg" width="25" height="22" align="top" style="filter: invert(1);"></picture> GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117" alt="Daniel's github stats" /> 
@@ -88,7 +88,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Daniel's streak stats"/>
 </div>
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/target.svg" width="20" height="23" align="top"> Life Vision
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/target.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/target.svg"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/target.svg" width="20" height="23" align="top" style="filter: invert(1);"></picture> Life Vision
 *"Building AI systems that **change the world**, one intelligent solution at a time."*
 
 ### Connect With Me
