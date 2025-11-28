@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 매일 한국 시간 새벽 3시에 실행 (UTC 18:00)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
+      # 변경된 부분: 여기에 토큰을 넣어주어야 저장(Push)할 때 권한 에러가 안 납니다!
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.TOKEN }}
+          
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push
         run: |
           git config user.name github-actions
