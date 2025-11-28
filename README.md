@@ -33,49 +33,44 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 * **🥈 Silver Medal Winner (KU Startup Competition)**
 * Smart roommate matching & real estate management platform featuring AI-based lease fraud detection.
 
-**Mirae Asset AI Challenge ([go to repo](https://github.com/danlee-dev/112-miraeasset-clova-ai-challenge.git))**
-* Creating personalized investment insights via a Graph RAG system built with Playwright, and automatically generating avatar videos from the results.
-   
+**Docscanner.ai - Legal Tech Solution ([go to repo](https://github.com/danlee-dev/252RCOSE48001.git))**
+* **KU Industry-Academic Capstone Design**
+* **Contract Analysis AI**: Automatically detects toxic clauses, missing items, and unfair terms in employment contracts.
+* **Tech**: Next.js, NestJS, FastAPI, Gemini 2.5, KURE-v1 (Legal Embedding), Elasticsearch.
+
 **Research Focus**
 * Retrieval-Augmented Generation (RAG) & Graph RAG
-* Multi-Agent Systems
+* Multi-Agent Systems & Legal AI
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black"><img src="https://cdn.simpleicons.org/github/black" width="25" height="25" style="vertical-align: middle;"></picture> Projects HUB
 
 <table>
 <tr>
-<td width="50%">
-
-**[Smart Food Research Hub](https://github.com/danlee-dev/crowdworks-multiagent-system.git)**
-- **Top Excellence Award**: 10th SW Talent Festival
-- **AI Agent System**: Food industry market research automation
-- **Technologies**: Next.js, FastAPI, Graph RAG, LangGraph, Elasticsearch
-
-<br>
-
-**[Uni-con - e:room Platform](https://github.com/danlee-dev/uni-con)**
-- **Silver Medal**: Korea University Uni-con Startup Competition
-- **Service**: Roommate matching & Lease fraud detection
-- **Technologies**: React Native, FastAPI, RAG, OpenAI API, OCR
-
-</td>
-<td width="50%">
+<td width="33%" align="center">
 
 **[AI Project Hub](https://github.com/danlee-dev/ai-project-hub)**
-- **AI Service**: Building small AI apps and demos   
-- **Technologies**: PyTorch, React, API Integration
-
 <br>
+Building small AI apps, demos & services
+<br><br>
+<img src="https://skillicons.dev/icons?i=pytorch,react,fastapi&theme=dark" />
 
-**[AI Paper Implementations](https://github.com/danlee-dev/ai-paper-implementations)**
-- **Implementation**: Transformer, ViT, Diffusion Models
-- **Technologies**: PyTorch, Research Papers
+</td>
+<td width="33%" align="center">
 
+**[AI Paper Impl](https://github.com/danlee-dev/ai-paper-implementations)**
 <br>
+Implementation of Transformer, ViT, Diffusion
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+</td>
+<td width="33%" align="center">
 
 **[CS Core Labs](https://github.com/danlee-dev/cs-core-labs)**
-- **Core CS projects**: Logic Design, Multicycle, CPU Scheduler
-- **Technologies**: C, Assembly, Verilog
+<br>
+OS, Logic Design, Multicycle CPU
+<br><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=dark" />
 
 </td>
 </tr>
@@ -83,7 +78,7 @@ Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersect
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackshare/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stackshare/black"><img src="https://cdn.simpleicons.org/stackshare/black" width="25" height="25" style="vertical-align: middle;"></picture> Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,pytorch,react,nextjs,ts,nodejs,mongodb,postgres,git,aws,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,pytorch,react,nextjs,ts,nodejs,nestjs,fastapi,elasticsearch,postgres,git,docker&theme=dark" />
 </p>
 
 **Currently Learning:** Graph Neural Networks, Advanced RAG, Diffusion Models
