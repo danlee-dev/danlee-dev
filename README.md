@@ -109,10 +109,24 @@ OS, Logic Design, Multicycle CPU
 
 <br>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
-</div>
+<h3 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000">
+    <img src="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;">
+  </picture>
+  My Contribution History (3D View)
+</h3>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season.svg">
+    <img width="80%" src="./profile-3d-contrib/profile-south-season.svg" alt="Daniel's 3D Contributions">
+  </picture>
+  <br>
+  <i>Visualizing my coding activity and commits over the last year.</i>
+</div>
 ---
 
 <div align="center">
