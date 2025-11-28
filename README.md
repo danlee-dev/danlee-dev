@@ -78,7 +78,7 @@ OS, Logic Design, Multicycle CPU
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackshare/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stackshare/black"><img src="https://cdn.simpleicons.org/stackshare/black" width="25" height="25" style="vertical-align: middle;"></picture> Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,pytorch,react,nextjs,ts,nodejs,nestjs,fastapi,elasticsearch,postgres,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,ts,react,nextjs,nestjs,fastapi,elasticsearch,postgres,docker&theme=dark" />
 </p>
 
 **Currently Learning:** Graph Neural Networks, Advanced RAG, Diffusion Models
