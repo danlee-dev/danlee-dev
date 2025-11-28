@@ -107,6 +107,12 @@ OS, Logic Design, Multicycle CPU
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+</div>
+
 ---
 
 <div align="center">
