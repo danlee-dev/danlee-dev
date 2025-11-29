@@ -86,26 +86,14 @@ OS, Logic Design, Multicycle CPU
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/chartdotjs/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/chartdotjs/black"><img src="https://cdn.simpleicons.org/chartdotjs/black" width="25" height="25" style="vertical-align: middle;"></picture> GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=86400">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=86400" alt="Daniel's github stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danlee-dev&layout=compact&hide_border=true&title_color=79c0ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danlee-dev&layout=compact&hide_border=true&theme=default&cache_seconds=86400">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlee-dev&layout=compact&hide_border=true&theme=default&cache_seconds=86400" alt="Top Langs" />
-  </picture>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117" alt="Daniel's github stats" /> 
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF&cache_seconds=86400">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=danlee-dev&theme=default&hide_border=true&cache_seconds=86400">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=danlee-dev&theme=default&hide_border=true&cache_seconds=86400" alt="Daniel's streak stats"/>
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Daniel's streak stats"/>
 </div>
+
+그 여기서 깃허브 화이트 모드일 때는 화이드 테마 다크 모드일 때는 다크테마로 해줘
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/target/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/target/black"><img src="https://cdn.simpleicons.org/target/black" width="20" height="20" style="vertical-align: middle;"></picture> Life Vision
 *"Building AI systems that **change the world**, one intelligent solution at a time."*
