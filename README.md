@@ -1,13 +1,15 @@
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" align="left" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2000&pause=800&color=D84315&center=true&vCenter=true&width=500&height=200&lines=Hi%2C+I'm+Daniel+Lee;Building+Intellectual+Systems;AI+%26+Full-Stack+Engineer;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2000&pause=800&color=D84315&center=true&vCenter=true&width=500&height=200&lines=Hi%2C+I'm+Daniel+Lee;Building+Intellectual+Systems;AI+Agent+%26+Multimodal+Dev;Turning+Ideas+into+Reality" alt="Typing SVG" />
   <br clear="all">
 </div>
 
 ---
 
 ### About Me
-Hi, I'm **Daniel Lee([Email](mailto:hi.danleedev@gmail.com))**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently focused on **Graph RAG**, **Multi-Agent Systems**, and solving complex query processing problems at Korea University.
+Hi, I'm **Daniel Lee([Email](mailto:hi.danleedev@gmail.com))**. 
+Building intelligent systems and exploring the intersection of **AI Agents** and **Multimodal Applications**. 
+Currently, I am expanding my research from text-based RAG to **Vision-Language Models (VLM)** and **Graph RAG** to solve complex real-world problems.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Awards & Honors
 
@@ -19,8 +21,8 @@ Hi, I'm **Daniel Lee([Email](mailto:hi.danleedev@gmail.com))**. Building intelli
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Publications
 
-- **[HCLT 2025] Combined Framework of RAG and Graph RAG for Efficient Multi-Hop Query Processing**
-  - **1st Author** | The 37th Annual Conference on Human and Cognitive Language Technology
+- **[HCLT 2025] Enhancing Multi-Hop Complex Query Retrieval Efficiency through the Integration of RAG and Graph RAG**
+  - [![PDF](https://img.shields.io/badge/View_PDF-F40F02?style=flat-square&logo=adobeacrobat&logoColor=white)](./paper/Enhancing-Multi-Hop-Complex-Query-Retrieval-Efficiency-through-the-Integration-of-RAG-and-Graph-RAG.pdf) 👈 **1st Author** | The 37th Annual Conference on Human and Cognitive Language Technology
   - Proposed a hybrid framework combining RAG and Graph RAG to optimize search efficiency for complex queries.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rocket/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rocket/black"><img src="https://cdn.simpleicons.org/rocket/black" width="23" height="23" style="vertical-align: middle;"></picture> Featured Projects
@@ -39,6 +41,7 @@ Hi, I'm **Daniel Lee([Email](mailto:hi.danleedev@gmail.com))**. Building intelli
 * **Tech**: Next.js, NestJS, FastAPI, Gemini 2.5, KURE-v1 (Legal Embedding), Elasticsearch.
 
 **Research Focus**
+* **Multimodal AI & Vision-Language Models (VLM)**
 * Retrieval-Augmented Generation (RAG) & Graph RAG
 * Multi-Agent Systems & Legal AI
 
@@ -59,7 +62,7 @@ Building small AI apps, demos & services
 
 **[AI Paper Impl](https://github.com/danlee-dev/ai-paper-implementations)**
 <br>
-Implementation of Transformer, ViT, Diffusion
+Impl of ViT, Diffusion, Transformer
 <br><br>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 
@@ -81,16 +84,22 @@ OS, Logic Design, Multicycle CPU
   <img src="https://skillicons.dev/icons?i=python,pytorch,c,ts,react,nextjs,nestjs,fastapi,elasticsearch,postgres,docker&theme=dark" />
 </p>
 
-**Currently Learning:** Graph Neural Networks, Advanced RAG, Diffusion Models
+**Currently Learning:** Large Multimodal Models (LMM), Graph Neural Networks, Advanced RAG
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/chartdotjs/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/chartdotjs/black"><img src="https://cdn.simpleicons.org/chartdotjs/black" width="25" height="25" style="vertical-align: middle;"></picture> GitHub Analytics
 
 <div align="center">
-  <img width="59%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117" alt="Daniel's github stats" /> 
+
+  <img width="59%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117" alt="Daniel's github stats" /> 
+
 </div>
 
+
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Daniel's streak stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Daniel's streak stats"/>
+
 </div>
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/target/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/target/black"><img src="https://cdn.simpleicons.org/target/black" width="20" height="20" style="vertical-align: middle;"></picture> Life Vision
