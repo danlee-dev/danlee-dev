@@ -22,9 +22,9 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Publications
 
 - **[HCLT 2025] Enhancing Multi-Hop Complex Query Retrieval Efficiency through the Integration of RAG and Graph RAG**
-  - [![PDF](https://img.shields.io/badge/View_PDF-F40F02?style=flat-square&logo=adobeacrobat&logoColor=white)](./paper/Enhancing-Multi-Hop-Complex-Query-Retrieval-Efficiency-through-the-Integration-of-RAG-and-Graph-RAG.pdf) 👈 **1st Author** | The 37th Annual Conference on Human and Cognitive Language Technology
+  - <sub><a href="./paper/Enhancing-Multi-Hop-Complex-Query-Retrieval-Efficiency-through-the-Integration-of-RAG-and-Graph-RAG.pdf"><img src="https://img.shields.io/badge/View_PDF-555555?style=flat-square&logo=adobeacrobat&logoColor=white" height="20"/></a></sub> <b>1st Author</b> | The 37th Annual Conference on Human and Cognitive Language Technology
   - Proposed a hybrid framework combining RAG and Graph RAG to optimize search efficiency for complex queries.
-
+  
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rocket/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rocket/black"><img src="https://cdn.simpleicons.org/rocket/black" width="23" height="23" style="vertical-align: middle;"></picture> Featured Projects
 
 **Smart Food Research Hub (Crowdworks x KU) ([go to repo](https://github.com/danlee-dev/crowdworks-multiagent-system.git))**
