@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-Hi, I'm **Daniel Lee**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently focused on **Graph RAG**, **Multi-Agent Systems**, and solving complex query processing problems at Korea University.
+Hi, I'm **Daniel Lee([Email](hi.danleedev@gmail.com))**. Building intelligent systems and exploring the intersection of AI and practical applications. Currently focused on **Graph RAG**, **Multi-Agent Systems**, and solving complex query processing problems at Korea University.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Awards & Honors
 
