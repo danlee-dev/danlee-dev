@@ -126,6 +126,7 @@ OS, Logic Design, Multicycle CPU
   <br>
   <i>Visualizing my coding activity and commits over the last year.</i>
 </div>
+
 ---
 
 <div align="center">
