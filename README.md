@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-Hi, I'm **Daniel Lee([Email](mailto:hi.danleedev@gmail.com))**. 
+Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" height="17"/></a></sub>.
 Building intelligent systems and exploring the intersection of **AI Agents** and **Multimodal Applications**. 
 Currently, I am expanding my research from text-based RAG to **Vision-Language Models (VLM)** and **Graph RAG** to solve complex real-world problems.
 
