@@ -93,8 +93,6 @@ OS, Logic Design, Multicycle CPU
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Daniel's streak stats"/>
 </div>
 
-그 여기서 깃허브 화이트 모드일 때는 화이드 테마 다크 모드일 때는 다크테마로 해줘
-
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/target/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/target/black"><img src="https://cdn.simpleicons.org/target/black" width="20" height="20" style="vertical-align: middle;"></picture> Life Vision
 *"Building AI systems that **change the world**, one intelligent solution at a time."*
 
