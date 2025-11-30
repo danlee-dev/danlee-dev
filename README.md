@@ -27,15 +27,15 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rocket/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rocket/black"><img src="https://cdn.simpleicons.org/rocket/black" width="23" height="23" style="vertical-align: middle;"></picture> Featured Projects
 
-**Smart Food Research Hub (Crowdworks x KU) ([go to repo](https://github.com/danlee-dev/crowdworks-multiagent-system.git))**
+**Smart Food Research Hub (Crowdworks x KU)** <sub><a href="https://github.com/danlee-dev/crowdworks-multiagent-system.git"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></a></sub>
 * **🏆 Top Excellence Award (10th SW Talent Festival)**
 * Developed a Multi-Agent RAG system for the food industry using Crawlers, Graph DB, and Elasticsearch to automate market research.
 
-**Uni-con - e:room Platform ([go to repo](https://github.com/danlee-dev/uni-con))**
+**Uni-con - e:room Platform** <sub><a href="https://github.com/danlee-dev/uni-con"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></a></sub>
 * **🥈 Silver Medal Winner (KU Startup Competition)**
 * Smart roommate matching & real estate management platform featuring AI-based lease fraud detection.
 
-**Docscanner.ai - Legal Tech Solution ([go to repo](https://github.com/danlee-dev/252RCOSE48001.git))**
+**Docscanner.ai - Legal Tech Solution** <sub><a href="https://github.com/danlee-dev/252RCOSE48001.git"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></a></sub>
 * **KU Industry-Academic Capstone Design**
 * **Contract Analysis AI**: Automatically detects toxic clauses, missing items, and unfair terms in employment contracts.
 * **Tech**: Next.js, NestJS, FastAPI, Gemini 2.5, KURE-v1 (Legal Embedding), Elasticsearch.
