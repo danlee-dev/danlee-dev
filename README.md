@@ -47,7 +47,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black"><img src="https://cdn.simpleicons.org/github/black" width="25" height="25" style="vertical-align: middle;"></picture> Projects HUB
 
-<table style="width: 100%; margin-left: auto; margin-right: auto;">
+<table width="100%" align="center">
 <tr>
   <td width="33%" align="center">
   
