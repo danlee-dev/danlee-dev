@@ -47,35 +47,53 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black"><img src="https://cdn.simpleicons.org/github/black" width="25" height="25" style="vertical-align: middle;"></picture> Projects HUB
 
-<table>
+<table style="width: 100%; margin-left: auto; margin-right: auto;">
 <tr>
-<td width="33%" align="center">
-
-**[AI Project Hub](https://github.com/danlee-dev/ai-project-hub)**
-<br>
-Building small AI apps, demos & services
-<br><br>
-<img src="https://skillicons.dev/icons?i=pytorch,react,fastapi&theme=dark" />
-
-</td>
-<td width="33%" align="center">
-
-**[AI Paper Impl](https://github.com/danlee-dev/ai-paper-implementations)**
-<br>
-Impl of ViT, Diffusion, Transformer
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-
-</td>
-<td width="33%" align="center">
-
-**[CS Core Labs](https://github.com/danlee-dev/cs-core-labs)**
-<br>
-OS, Logic Design, Multicycle CPU
-<br><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=dark" />
-
-</td>
+  <td width="33%" align="center">
+  
+  <a href="https://github.com/danlee-dev/ai-project-hub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI_Project_Hub-000000?style=for-the-badge&logo=github&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AI_Project_Hub-F2F2F2?style=for-the-badge&logo=github&logoColor=black&labelColor=white">
+      <img src="https://img.shields.io/badge/AI_Project_Hub-F2F2F2?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="AI Project Hub">
+    </picture>
+  </a>
+  <br>
+  AI apps, demos & services
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,react,fastapi&theme=dark" />
+  
+  </td>
+  <td width="33%" align="center">
+  
+  <a href="https://github.com/danlee-dev/ai-paper-implementations">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI_Paper_Impl-000000?style=for-the-badge&logo=python&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AI_Paper_Impl-F2F2F2?style=for-the-badge&logo=python&logoColor=black&labelColor=white">
+      <img src="https://img.shields.io/badge/AI_Paper_Impl-F2F2F2?style=for-the-badge&logo=python&logoColor=black&labelColor=white" alt="AI Paper Impl">
+    </picture>
+  </a>
+  <br>
+  Impl of Multimodal model
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+  
+  </td>
+  <td width="33%" align="center">
+  
+  <a href="https://github.com/danlee-dev/cs-core-labs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CS_Core_Labs-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CS_Core_Labs-F2F2F2?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=white">
+      <img src="https://img.shields.io/badge/CS_Core_Labs-F2F2F2?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=white" alt="CS Core Labs">
+    </picture>
+  </a>
+  <br>
+  Scheduling, Logic, Multicycle
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=c,linux&theme=dark" />
+  
+  </td>
 </tr>
 </table>
 
