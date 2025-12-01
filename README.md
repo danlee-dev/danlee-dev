@@ -49,51 +49,49 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 
 <table width="100%" align="center">
 <tr>
-  <td width="33%" align="center">
-  
+<td width="33%" align="center" valign="top">
+
   <a href="https://github.com/danlee-dev/ai-project-hub">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI_Project_Hub-000000?style=for-the-badge&logo=github&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AI_Project_Hub-F2F2F2?style=for-the-badge&logo=github&logoColor=black&labelColor=white">
-      <img src="https://img.shields.io/badge/AI_Project_Hub-F2F2F2?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="AI Project Hub">
-    </picture>
+    <img src="https://img.shields.io/badge/AI_Project_Hub_➜-24292e?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br>
-  AI apps, demos & services
+  <span style="font-size: 13px;">AI apps, demos & services</span>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,react,fastapi&theme=dark" />
   
-  </td>
-  <td width="33%" align="center">
-  
+  <img src="https://skillicons.dev/icons?i=pytorch,react,fastapi,nextjs&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
   <a href="https://github.com/danlee-dev/ai-paper-implementations">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI_Paper_Impl-000000?style=for-the-badge&logo=python&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AI_Paper_Impl-F2F2F2?style=for-the-badge&logo=python&logoColor=black&labelColor=white">
-      <img src="https://img.shields.io/badge/AI_Paper_Impl-F2F2F2?style=for-the-badge&logo=python&logoColor=black&labelColor=white" alt="AI Paper Impl">
-    </picture>
+    <img src="https://img.shields.io/badge/AI_Paper_Impl_➜-24292e?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <br>
-  Impl of Multimodal model
+  <span style="font-size: 13px;">Impl of Multimodal model</span>
   <br><br>
+  
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-  
-  </td>
-  <td width="33%" align="center">
-  
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
   <a href="https://github.com/danlee-dev/cs-core-labs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CS_Core_Labs-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CS_Core_Labs-F2F2F2?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=white">
-      <img src="https://img.shields.io/badge/CS_Core_Labs-F2F2F2?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=white" alt="CS Core Labs">
-    </picture>
+    <img src="https://img.shields.io/badge/CS_Core_Labs_➜-24292e?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </a>
   <br>
-  Scheduling, Logic, Multicycle
+  <span style="font-size: 13px;">Scheduling, Logic, Multicycle</span>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=c,linux&theme=dark" />
   
-  </td>
+  <img src="https://skillicons.dev/icons?i=c,linux&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/Verilog-B8312F?style=flat-square"/>
+
+</td>
 </tr>
 </table>
 
