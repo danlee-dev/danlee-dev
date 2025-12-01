@@ -90,7 +90,11 @@ OS, Logic Design, Multicycle CPU
 
 <div align="center">
 
-  <img width="59%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danlee-dev&show_icons=true&count_private=true&hide_border=true&title_color=79c0ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117" alt="Daniel's github stats" /> 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-nu-beryl.vercel.app/api?username=danlee-dev&show_icons=true&theme=dark">
+  
+  <img alt="Daniel's github stats" src="https://readme-stats-nu-beryl.vercel.app/api?username=danlee-dev&show_icons=true&theme=default">
+</picture>
 
 </div>
 
@@ -98,7 +102,11 @@ OS, Logic Design, Multicycle CPU
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="Daniel's streak stats"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-gules-three.vercel.app/?user=danlee-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF">
+  
+  <img alt="Daniel's streak stats" src="https://github-readme-streak-stats-gules-three.vercel.app/?user=danlee-dev&theme=default&hide_border=true">
+</picture>
 
 </div>
 
