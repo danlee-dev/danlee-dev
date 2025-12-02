@@ -27,6 +27,16 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rocket/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rocket/black"><img src="https://cdn.simpleicons.org/rocket/black" width="23" height="23" style="vertical-align: middle;"></picture> Featured Projects
 
+**GitDeck - Developer Profile & Blog Platform** <sub><a href="https://github.com/danlee-dev/git-deck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+* GitHub Profile README Editor with real-time preview and bidirectional sync.
+* Developer blog platform with social features (follow, like, comments, notifications).
+* **Tech**: Next.js 14, FastAPI, PostgreSQL, CodeMirror 6, BlockNote, Gemini/OpenAI
+
+**Docscanner.ai - Legal Tech Solution** <sub><a href="https://github.com/danlee-dev/252RCOSE48001.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+* **KU Industry-Academic Capstone Design**
+* **Contract Analysis AI**: Automatically detects toxic clauses, missing items, and unfair terms in employment contracts.
+* **Tech**: Next.js, NestJS, FastAPI, Gemini 2.5, KURE-v1 (Legal Embedding), Elasticsearch.
+
 **Smart Food Research Hub (Crowdworks x KU)** <sub><a href="https://github.com/danlee-dev/crowdworks-multiagent-system.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * **🏆 Top Excellence Award (10th SW Talent Festival)**
 * Developed a Multi-Agent RAG system for the food industry using Crawlers, Graph DB, and Elasticsearch to automate market research.
@@ -35,13 +45,8 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 * **🥈 Silver Medal Winner (KU Startup Competition)**
 * Smart roommate matching & real estate management platform featuring AI-based lease fraud detection.
 
-**Docscanner.ai - Legal Tech Solution** <sub><a href="https://github.com/danlee-dev/252RCOSE48001.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
-* **KU Industry-Academic Capstone Design**
-* **Contract Analysis AI**: Automatically detects toxic clauses, missing items, and unfair terms in employment contracts.
-* **Tech**: Next.js, NestJS, FastAPI, Gemini 2.5, KURE-v1 (Legal Embedding), Elasticsearch.
-
 **Research Focus**
-* **Multimodal AI & Vision-Language Models (VLM)**
+* Multimodal AI & Vision-Language Models (VLM)
 * Retrieval-Augmented Generation (RAG) & Graph RAG
 * Multi-Agent Systems & Legal AI
 
