@@ -30,7 +30,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 **GitDeck - Developer Profile & Blog Platform** <sub><a href="https://github.com/danlee-dev/git-deck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * GitHub Profile README Editor with real-time preview and bidirectional sync.
 * Developer blog platform with social features (follow, like, comments, notifications).
-* **Tech**: Next.js 14, FastAPI, PostgreSQL, CodeMirror 6, BlockNote, Gemini/OpenAI
+* **Tech**: Next.js 14, FastAPI, PostgreSQL, CodeMirror 6, BlockNote, Gemini/OpenAI.
 
 **Docscanner.ai - Legal Tech Solution** <sub><a href="https://github.com/danlee-dev/252RCOSE48001.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * **KU Industry-Academic Capstone Design**
