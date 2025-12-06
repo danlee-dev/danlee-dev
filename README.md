@@ -37,6 +37,12 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 * **Contract Analysis AI**: Automatically detects toxic clauses, missing items, and unfair terms in employment contracts.
 * **Tech**: Next.js, NestJS, FastAPI, Gemini 2.5, KURE-v1 (Legal Embedding), Elasticsearch.
 
+**Cardealo - Location-based Card Benefit Platform** <sub><a href="https://github.com/danlee-dev/cardealo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+* **KU Software Engineering Course Project**
+* **LBS Real-time Recommendation**: Automatically analyzes and recommends the optimal credit card for nearby stores based on location data.
+* **All-in-One Management**: Provides a one-stop solution for analyzing spending patterns, tracking card performance requirements, and processing payments.
+* **Tech**: [Tech Stack Here] (e.g., React Native, Spring Boot, MySQL)
+
 **Smart Food Research Hub (Crowdworks x KU)** <sub><a href="https://github.com/danlee-dev/crowdworks-multiagent-system.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * **🏆 Top Excellence Award (10th SW Talent Festival)**
 * Developed a Multi-Agent RAG system for the food industry using Crawlers, Graph DB, and Elasticsearch to automate market research.
