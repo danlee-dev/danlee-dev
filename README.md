@@ -117,15 +117,15 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-nu-beryl.vercel.app/api?username=danlee-dev&show_icons=true&theme=dark&bg_color=transparent&hide_border=true">
-    <img alt="Daniel's github stats" src="https://readme-stats-nu-beryl.vercel.app/api?username=danlee-dev&show_icons=true&theme=default&bg_color=transparent&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-nu-beryl.vercel.app/api?username=danlee-dev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true">
+    <img alt="Daniel's github stats" src="https://readme-stats-nu-beryl.vercel.app/api?username=danlee-dev&show_icons=true&theme=default&bg_color=ffffff&hide_border=true">
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-gules-three.vercel.app/?user=danlee-dev&theme=dark&background=transparent&hide_border=true&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF">
-    <img alt="Daniel's streak stats" src="https://github-readme-streak-stats-gules-three.vercel.app/?user=danlee-dev&theme=default&background=transparent&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-gules-three.vercel.app/?user=danlee-dev&theme=dark&background=0d1117&hide_border=true&stroke=0000&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF">
+    <img alt="Daniel's streak stats" src="https://github-readme-streak-stats-gules-three.vercel.app/?user=danlee-dev&theme=default&background=ffffff&hide_border=true">
   </picture>
 </div>
 
