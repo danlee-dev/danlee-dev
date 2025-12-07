@@ -108,7 +108,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackshare/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stackshare/black"><img src="https://cdn.simpleicons.org/stackshare/black" width="25" height="25" style="vertical-align: middle;"></picture> Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,c,ts,react,nextjs,nestjs,fastapi,elasticsearch,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,ts,react,nextjs,fastapi,elasticsearch,postgres,docker&theme=dark" />
 </p>
 
 **Currently Learning:** Large Multimodal Models (LMM), Graph Neural Networks, Advanced RAG
