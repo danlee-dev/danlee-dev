@@ -14,17 +14,19 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Awards & Honors
 
 **2025**
+- **Top Excellence Award (1st Prize)**
+  - **KU Industry-Academic Capstone Design Competition** | Project: *DocScanner - Agentic RAG Legal Assistant* <sub><a href="https://github.com/danlee-dev/252RCOSE48001"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 - **Top Excellence Award (Institute for Information & Communication Technology Planning & Evaluation Director's Award)**
-  - **10th SW Talent Festival** | Project: *Smart Food Research Agent System*
+  - **10th SW Talent Festival** | Project: *Smart Food Research Agent System* <sub><a href="https://github.com/danlee-dev/crowdworks-multiagent-system.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 - **Silver Medal**
-  - **Korea University Uni-con Startup Competition** | Project: *e:room - AI Roommate Matching & Fraud Detection Platform*
+  - **Korea University Uni-con Startup Competition** | Project: *e:room - AI Roommate Matching & Fraud Detection Platform* <sub><a href="https://github.com/danlee-dev/uni-con"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Publications
 
 - **[HCLT 2025] Enhancing Multi-Hop Complex Query Retrieval Efficiency through the Integration of RAG and Graph RAG**
   - <sub><a href="./paper/Enhancing-Multi-Hop-Complex-Query-Retrieval-Efficiency-through-the-Integration-of-RAG-and-Graph-RAG.pdf"><img src="https://img.shields.io/badge/View_PDF-555555?style=flat-square&logo=adobeacrobat&logoColor=white" height="18"/></a></sub> <b>1st Author</b> | The 37th Annual Conference on Human and Cognitive Language Technology
   - Proposed a hybrid framework combining RAG and Graph RAG to optimize search efficiency for complex queries.
-  
+   
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rocket/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rocket/black"><img src="https://cdn.simpleicons.org/rocket/black" width="23" height="23" style="vertical-align: middle;"></picture> Featured Projects
 
 **GitDeck - Developer Profile & Blog Platform** <sub><a href="https://github.com/danlee-dev/git-deck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
@@ -32,10 +34,10 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 * Developer blog platform with social features (follow, like, comments, notifications).
 * **Tech**: Next.js 14, FastAPI, PostgreSQL, CodeMirror 6, BlockNote, Gemini/OpenAI.
 
-**Docscanner.ai - Legal Tech Solution** <sub><a href="https://github.com/danlee-dev/252RCOSE48001.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
-* **KU Industry-Academic Capstone Design**
+**Docscanner.ai - Legal Tech Solution** <sub><a href="https://github.com/danlee-dev/252RCOSE48001"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+* **🏆 Top Excellence Award (KU Capstone Design Competition)**
 * **Contract Analysis AI**: Automatically detects toxic clauses, missing items, and unfair terms in employment contracts.
-* **Tech**: Next.js, NestJS, FastAPI, Gemini 2.5, KURE-v1 (Legal Embedding), Elasticsearch.
+* **Tech**: Next.js, FastAPI, Gemini, OpenAI, KURE-v1 (Legal Embedding), Elasticsearch.
 
 **Cardealo - Location-based Card Benefit Platform** <sub><a href="https://github.com/danlee-dev/cardealo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * **KU Software Engineering Course Project**
@@ -68,7 +70,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   <br>
   <span style="font-size: 13px;">AI apps, demos & services</span>
   <br><br>
-  
+   
   <img src="https://skillicons.dev/icons?i=pytorch,react,fastapi,nextjs&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -84,7 +86,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   <br>
   <span style="font-size: 13px;">Impl of Multimodal model</span>
   <br><br>
-  
+   
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 
 </td>
@@ -97,7 +99,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   <br>
   <span style="font-size: 13px;">Scheduling, Logic, Multicycle</span>
   <br><br>
-  
+   
   <img src="https://skillicons.dev/icons?i=c,linux&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Verilog-B8312F?style=flat-square"/>
@@ -135,7 +137,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 ### Connect With Me
 
 <div align="center">
-  
+   
 [![Email](https://img.shields.io/badge/Email-hi.danleedev%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:hi.danleedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danlee--dev-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danlee-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-danlee--dev-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/danlee-dev)
