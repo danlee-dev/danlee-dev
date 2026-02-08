@@ -26,8 +26,13 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 - **[HCLT 2025] Enhancing Multi-Hop Complex Query Retrieval Efficiency through the Integration of RAG and Graph RAG**
   - <sub><a href="./paper/Enhancing-Multi-Hop-Complex-Query-Retrieval-Efficiency-through-the-Integration-of-RAG-and-Graph-RAG.pdf"><img src="https://img.shields.io/badge/View_PDF-555555?style=flat-square&logo=adobeacrobat&logoColor=white" height="18"/></a></sub> <b>1st Author</b> | The 37th Annual Conference on Human and Cognitive Language Technology
   - Proposed a hybrid framework combining RAG and Graph RAG to optimize search efficiency for complex queries.
-   
+    
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rocket/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rocket/black"><img src="https://cdn.simpleicons.org/rocket/black" width="23" height="23" style="vertical-align: middle;"></picture> Featured Projects
+
+**IP-to-Portrait - High-Fidelity Face Synthesis Pipeline** <sub><a href="https://github.com/Diffusion-planet/ip-to-portrait.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+* **Advanced AI Pipeline**: End-to-end face synthesis preserving identity, background, and lighting using SDXL Inpainting & IP-Adapter FaceID Plus v2.
+* **Multimodal Integration**: Auto-prompting via Gemini 2.5 Flash VLM and precision masking with BiSeNet & InsightFace.
+* **Tech**: Next.js, FastAPI, Celery, Redis, PyTorch, Diffusers, ONNX Runtime.
 
 **GitDeck - Developer Profile & Blog Platform** <sub><a href="https://github.com/danlee-dev/git-deck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * GitHub Profile README Editor with real-time preview and bidirectional sync.
@@ -42,16 +47,11 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 **Cardealo - Location-based Card Benefit Platform** <sub><a href="https://github.com/danlee-dev/cardealo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * **KU Software Engineering Course Project**
 * **LBS Real-time Recommendation**: Automatically analyzes and recommends the optimal credit card for nearby stores based on location data.
-* **All-in-One Management**: Provides a one-stop solution for analyzing spending patterns, tracking card performance requirements, and processing payments.
-* **Tech**: React Native, FastAPI, PostgreSQL, Gemini API, Google maps API, TMAP API, Naver Cloud Platform(Maps, OCR)
+* **Tech**: React Native, FastAPI, PostgreSQL, Gemini API, Naver Cloud Platform.
 
 **Smart Food Research Hub (Crowdworks x KU)** <sub><a href="https://github.com/danlee-dev/crowdworks-multiagent-system.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * **🏆 Top Excellence Award (10th SW Talent Festival)**
-* Developed a Multi-Agent RAG system for the food industry using Crawlers, Graph DB, and Elasticsearch to automate market research.
-
-**Uni-con - e:room Platform** <sub><a href="https://github.com/danlee-dev/uni-con"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
-* **🥈 Silver Medal Winner (KU Startup Competition)**
-* Smart roommate matching & real estate management platform featuring AI-based lease fraud detection.
+* Developed a Multi-Agent RAG system for the food industry using Crawlers, Graph DB, and Elasticsearch.
 
 **Research Focus**
 * Multimodal AI & Vision-Language Models (VLM)
@@ -70,7 +70,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   <br>
   <span style="font-size: 13px;">AI apps, demos & services</span>
   <br><br>
-   
+    
   <img src="https://skillicons.dev/icons?i=pytorch,react,fastapi,nextjs&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -86,7 +86,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   <br>
   <span style="font-size: 13px;">Impl of Multimodal model</span>
   <br><br>
-   
+    
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 
 </td>
@@ -99,7 +99,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   <br>
   <span style="font-size: 13px;">Scheduling, Logic, Multicycle</span>
   <br><br>
-   
+    
   <img src="https://skillicons.dev/icons?i=c,linux&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Verilog-B8312F?style=flat-square"/>
@@ -137,7 +137,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 ### Connect With Me
 
 <div align="center">
-   
+    
 [![Email](https://img.shields.io/badge/Email-hi.danleedev%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:hi.danleedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danlee--dev-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danlee-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-danlee--dev-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/danlee-dev)
