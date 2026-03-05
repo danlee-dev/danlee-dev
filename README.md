@@ -7,9 +7,7 @@
 ---
 
 ### About Me
-Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Email-D84315?style=flat-square&logo=gmail&logoColor=white" height="17"/></a></sub> .
-Building intelligent systems and exploring the intersection of **AI Agents** and **Multimodal Applications**. 
-Currently, I am expanding my research from text-based RAG to **Vision-Language Models (VLM)** and **Graph RAG** to solve complex real-world problems.
+Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Email-D84315?style=flat-square&logo=gmail&logoColor=white" height="17"/></a></sub>. Currently evolving from RAG to **Graph RAG** and **Vision-Language Models (VLM/VLA)** to bridge digital reasoning with physical action. Striving to be a **Problem Definer** who doesn't just solve tasks, but poses the next big challenges.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Awards & Honors
 
@@ -94,8 +92,6 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
   <img src="https://skillicons.dev/icons?i=c,python,pytorch,ts,react,nextjs,fastapi,postgres,docker,git&theme=dark" />
 </p>
 
-**Currently Learning:** Large Multimodal Models (LMM), Graph Neural Networks, Advanced RAG
-
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/chartdotjs/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/chartdotjs/black"><img src="https://cdn.simpleicons.org/chartdotjs/black" width="25" height="25" style="vertical-align: middle;"></picture> GitHub Analytics
 
 <div align="center">
@@ -113,38 +109,27 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 </div>
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/target/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/target/black"><img src="https://cdn.simpleicons.org/target/black" width="20" height="20" style="vertical-align: middle;"></picture> Life Vision
-*"Building AI systems that **change the world**, one intelligent solution at a time."*
+<div align="center">
+  <i>"Don't just <b>solve</b> the problems of today; be the one to <b>pose</b> the challenges of tomorrow."</i>
+</div>
 
-### Connect With Me
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000" width="27" height="24" style="vertical-align: middle;"></picture> Connect With Me
 
 <div align="center">
-    
-[![Email](https://img.shields.io/badge/Email-hi.danleedev%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:hi.danleedev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danlee--dev-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danlee-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-danlee--dev-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/danlee-dev)
-
+  <a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/danlee-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/danlee-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
 
-<h3 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000">
-    <img src="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;">
-  </picture>
-  My Contribution History (3D View)
-</h3>
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Contribution Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season.svg">
-    <img width="80%" src="./profile-3d-contrib/profile-south-season.svg" alt="Daniel's 3D Contributions">
-  </picture>
-  <br>
-  <i>Visualizing my coding activity and commits over the last year.</i>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=danlee-dev&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=D84315">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=danlee-dev&theme=react&bg_color=ffffff&hide_border=true&area=true&color=D84315">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danlee-dev&theme=react&bg_color=ffffff&hide_border=true&area=true&color=D84315" />
+</picture>
+<br>
+<i>Visualizing my coding intensity and contribution flow over the past year.</i>
 
 ---
 
