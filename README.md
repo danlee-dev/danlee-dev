@@ -108,28 +108,11 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
   </picture>
 </div>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/target/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/target/black"><img src="https://cdn.simpleicons.org/target/black" width="20" height="20" style="vertical-align: middle;"></picture> Life Vision
-<div align="center">
-  <i>"Don't just <b>solve</b> the problems of today; be the one to <b>pose</b> the challenges of tomorrow."</i>
-</div>
-
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000" width="27" height="24" style="vertical-align: middle;"></picture> Connect With Me
 
 <div align="center">
   <a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/danlee-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/danlee-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
-<br>
-
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:chart-bar-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=danlee-dev&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=D84315">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=danlee-dev&theme=react&bg_color=ffffff&hide_border=true&area=true&color=D84315">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danlee-dev&theme=react&bg_color=ffffff&hide_border=true&area=true&color=D84315" />
-</picture>
-<br>
-<i>Visualizing my coding intensity and contribution flow over the past year.</i>
 
 ---
 
@@ -138,5 +121,5 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
   <br/>
   <b>Thanks for visiting!</b>
   <br/>
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Don't just <b>solve</b> the problems of today; be the one to <b>pose</b> the challenges of tomorrow."</i>
 </div>
