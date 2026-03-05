@@ -34,29 +34,10 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 * **Multimodal Integration**: Auto-prompting via Gemini 2.5 Flash VLM and precision masking with BiSeNet & InsightFace.
 * **Tech**: Next.js, FastAPI, Celery, Redis, PyTorch, Diffusers, ONNX Runtime.
 
-**GitDeck - Developer Profile & Blog Platform** <sub><a href="https://github.com/danlee-dev/git-deck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
-* GitHub Profile README Editor with real-time preview and bidirectional sync.
-* Developer blog platform with social features (follow, like, comments, notifications).
-* **Tech**: Next.js 14, FastAPI, PostgreSQL, CodeMirror 6, BlockNote, Gemini/OpenAI.
-
-**Docscanner.ai - Legal Tech Solution** <sub><a href="https://github.com/danlee-dev/252RCOSE48001"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
-* **🏆 Top Excellence Award (KU Capstone Design Competition)**
-* **Contract Analysis AI**: Automatically detects toxic clauses, missing items, and unfair terms in employment contracts.
-* **Tech**: Next.js, FastAPI, Gemini, OpenAI, KURE-v1 (Legal Embedding), Elasticsearch.
-
-**Cardealo - Location-based Card Benefit Platform** <sub><a href="https://github.com/danlee-dev/cardealo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
-* **KU Software Engineering Course Project**
-* **LBS Real-time Recommendation**: Automatically analyzes and recommends the optimal credit card for nearby stores based on location data.
-* **Tech**: React Native, FastAPI, PostgreSQL, Gemini API, Naver Cloud Platform.
-
-**Smart Food Research Hub (Crowdworks x KU)** <sub><a href="https://github.com/danlee-dev/crowdworks-multiagent-system.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
-* **🏆 Top Excellence Award (10th SW Talent Festival)**
-* Developed a Multi-Agent RAG system for the food industry using Crawlers, Graph DB, and Elasticsearch.
-
 **Research Focus**
-* Multimodal AI & Vision-Language Models (VLM)
-* Retrieval-Augmented Generation (RAG) & Graph RAG
-* Multi-Agent Systems & Legal AI
+* **Vision-Language Models (VLM) & VLA**: Focus on Physical AI and autonomous robot control
+* **Agentic Systems**: Developing autonomous decision-making loops and agentic workflows.
+* **RAG & Graph RAG**: Exploring advanced retrieval and knowledge graph integration for agents.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black"><img src="https://cdn.simpleicons.org/github/black" width="25" height="25" style="vertical-align: middle;"></picture> Projects HUB
 
@@ -110,7 +91,7 @@ Currently, I am expanding my research from text-based RAG to **Vision-Language M
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackshare/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stackshare/black"><img src="https://cdn.simpleicons.org/stackshare/black" width="25" height="25" style="vertical-align: middle;"></picture> Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,c,ts,react,nextjs,fastapi,elasticsearch,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,python,pytorch,ts,react,nextjs,fastapi,postgres,docker,git&theme=dark" />
 </p>
 
 **Currently Learning:** Large Multimodal Models (LMM), Graph Neural Networks, Advanced RAG
