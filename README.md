@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Email-D84315?style=flat-square&logo=gmail&logoColor=white" height="17"/></a></sub>. Currently evolving from RAG to **Graph RAG** and **Vision-Language Models (VLM/VLA)** to bridge digital reasoning with physical action. Striving to be a **Problem Definer** who doesn't just solve tasks, but poses the next big challenges.
+Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Email-D84315?style=flat-square&logo=gmail&logoColor=white" height="17"/></a></sub>. I build **Agentic AI Systems** and **Multimodal AI pipelines** — from autonomous LLM agents with complex tool-use to vision-language models that bridge perception and reasoning. As a full-stack AI engineer, I ship end-to-end products from model architecture to production-ready web services. Striving to be a **Problem Definer** who doesn't just solve tasks, but poses the next big challenges.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Awards & Honors
 
@@ -111,7 +111,7 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000" width="27" height="24" style="vertical-align: middle;"></picture> Connect With Me
 
 <div align="center">
-  <a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/danlee-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/danlee-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/danlee-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://x.com/daniel_lee69922"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </div>
 
 ---
