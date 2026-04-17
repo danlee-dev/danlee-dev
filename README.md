@@ -9,7 +9,7 @@
 ### About Me
 Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Email-D84315?style=flat-square&logo=gmail&logoColor=white" height="17"/></a></sub>. I build **Agentic AI Systems** and **Multimodal AI pipelines** — from autonomous LLM agents with complex tool-use to vision-language models that bridge perception and reasoning. As a full-stack AI engineer, I ship end-to-end products from model architecture to production-ready web services. Striving to be a **Problem Definer** who doesn't just solve tasks, but poses the next big challenges.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:trophy-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Awards & Honors
+### Awards & Honors
 
 **2025**
 - **Top Excellence Award (1st Prize)**
@@ -19,13 +19,22 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
 - **Silver Medal**
   - **Korea University Uni-con Startup Competition** | Project: *e:room - AI Roommate Matching & Fraud Detection Platform* <sub><a href="https://github.com/danlee-dev/uni-con"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%23000000" width="25" height="25" style="vertical-align: middle;"></picture> Publications
+### Publications
 
 - **[HCLT 2025] Enhancing Multi-Hop Complex Query Retrieval Efficiency through the Integration of RAG and Graph RAG**
   - <sub><a href="./paper/Enhancing-Multi-Hop-Complex-Query-Retrieval-Efficiency-through-the-Integration-of-RAG-and-Graph-RAG.pdf"><img src="https://img.shields.io/badge/View_PDF-555555?style=flat-square&logo=adobeacrobat&logoColor=white" height="18"/></a></sub> <b>1st Author</b> | The 37th Annual Conference on Human and Cognitive Language Technology
   - Proposed a hybrid framework combining RAG and Graph RAG to optimize search efficiency for complex queries.
-    
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rocket/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rocket/black"><img src="https://cdn.simpleicons.org/rocket/black" width="23" height="23" style="vertical-align: middle;"></picture> Featured Projects
+
+### Products
+
+**LecTranscribe - AI Lecture Transcription SaaS** <sub><a href="https://lectranscribe.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visit_Site-white?style=flat-square&logo=googlechrome&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit_Site-181717?style=flat-square&logo=googlechrome&logoColor=white"><img src="https://img.shields.io/badge/Visit_Site-181717?style=flat-square&logo=googlechrome&logoColor=white" height="18"/></picture></a></sub>
+* **Live SaaS**: Full-stack lecture transcription platform with credit-based billing (Lemon Squeezy) and a Chrome Extension on the Web Store for one-click LMS & YouTube transcription.
+* **AI Agent**: LangGraph-based router dispatching to specialized nodes (note/exam/prompt/QA), Gemini 2.5 Flash streaming with automatic model fallback on rate limits.
+* **Transcription Pipeline**: Parallel chunk processing via asyncio, Groq Whisper primary with OpenAI fallback, sliding-window rate limiter, HMAC-secured upload tokens, SIGTERM-safe graceful shutdown with automatic credit refund.
+* **Data Integrity**: Atomic credit RPCs with row-level locking (`FOR UPDATE`), idempotent refund flags, pg_cron reaper for stuck jobs, partial indexes, and RLS + service-role dual access control.
+* **Tech**: Next.js, FastAPI, Supabase, LangGraph, Groq Whisper, Gemini API, Chrome Extension, Lemon Squeezy.
+
+### Featured Projects
 
 **IP-to-Portrait - High-Fidelity Face Synthesis Pipeline** <sub><a href="https://github.com/Diffusion-planet/ip-to-portrait.git"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
 * **Advanced AI Pipeline**: End-to-end face synthesis preserving identity, background, and lighting using SDXL Inpainting & IP-Adapter FaceID Plus v2.
@@ -37,7 +46,7 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
 * **Agentic Systems**: Developing autonomous decision-making loops and agentic workflows.
 * **RAG & Graph RAG**: Exploring advanced retrieval and knowledge graph integration for agents.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black"><img src="https://cdn.simpleicons.org/github/black" width="25" height="25" style="vertical-align: middle;"></picture> Projects HUB
+### Projects HUB
 
 <table width="100%" align="center">
 <tr>
@@ -87,12 +96,12 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
 </tr>
 </table>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stackshare/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/stackshare/black"><img src="https://cdn.simpleicons.org/stackshare/black" width="25" height="25" style="vertical-align: middle;"></picture> Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,pytorch,ts,react,nextjs,fastapi,postgres,docker,git&theme=dark" />
 </p>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/chartdotjs/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/chartdotjs/black"><img src="https://cdn.simpleicons.org/chartdotjs/black" width="25" height="25" style="vertical-align: middle;"></picture> GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <picture>
@@ -108,7 +117,7 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
   </picture>
 </div>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23ffffff"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000"><img src="https://api.iconify.design/heroicons:identification-solid.svg?color=%23000000" width="27" height="24" style="vertical-align: middle;"></picture> Connect With Me
+### Connect With Me
 
 <div align="center">
   <a href="mailto:hi.danleedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/danlee-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://x.com/daniel_lee69922"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
