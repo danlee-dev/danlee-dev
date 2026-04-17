@@ -33,7 +33,7 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
 * **Tech**: Next.js, FastAPI, Celery, Redis, PyTorch, Diffusers, ONNX Runtime.
 
 **Research Focus**
-* **Vision-Language Models (VLM) & VLA**: Focus on Physical AI and autonomous robot control
+* **Vision-Language Models (VLM) & VLA**: Interested in multimodal understanding and reasoning
 * **Agentic Systems**: Developing autonomous decision-making loops and agentic workflows.
 * **RAG & Graph RAG**: Exploring advanced retrieval and knowledge graph integration for agents.
 
