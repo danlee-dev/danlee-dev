@@ -30,9 +30,6 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
 **LecTranscribe - AI Lecture Transcription SaaS** <sub><a href="https://lectranscribe.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visit_Site-white?style=flat-square&logo=googlechrome&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit_Site-181717?style=flat-square&logo=googlechrome&logoColor=white"><img src="https://img.shields.io/badge/Visit_Site-181717?style=flat-square&logo=googlechrome&logoColor=white" height="18"/></picture></a></sub>
 * **Live SaaS**: Full-stack lecture transcription platform with credit-based billing (Lemon Squeezy) and a Chrome Extension on the Web Store for one-click LMS & YouTube transcription.
 * **AI Agent**: LangGraph-based router dispatching to specialized nodes (note/exam/prompt/QA), Gemini 2.5 Flash streaming with automatic model fallback on rate limits.
-* **Transcription Pipeline**: Parallel chunk processing via asyncio, Groq Whisper primary with OpenAI fallback, sliding-window rate limiter, HMAC-secured upload tokens, SIGTERM-safe graceful shutdown with automatic credit refund.
-* **Data Integrity**: Atomic credit RPCs with row-level locking (`FOR UPDATE`), idempotent refund flags, pg_cron reaper for stuck jobs, partial indexes, and RLS + service-role dual access control.
-* **Tech**: Next.js, FastAPI, Supabase, LangGraph, Groq Whisper, Gemini API, Chrome Extension, Lemon Squeezy.
 
 ### Featured Projects
 
