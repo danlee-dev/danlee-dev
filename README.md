@@ -27,6 +27,10 @@ Hi, I'm **Daniel Lee** <sub><a href="mailto:hi.danleedev@gmail.com"><img src="ht
 
 ### Products
 
+**Scene24 - AI Cinematic Ad Generator for SaaS** <sub><a href="https://github.com/danlee-dev/scene24"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Repo-white?style=flat-square&logo=github&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" height="18"/></picture></a></sub>
+* **Product**: Generates 30-second cinematic launch ad videos from a product URL or pencil-sketched storyboard — built for solo SaaS founders and indie hackers underserved by Synthesia (avatar-heavy) and Runway (agency-priced).
+* **AI Architecture**: Claude Agent SDK with brand / motion-director / critic sub-agents orchestrate Remotion for programmatic rendering. No avatars, no AI-generated UI — real product screenshots animated with cinematic motion.
+
 **LecTranscribe - AI Lecture Transcription SaaS** <sub><a href="https://lectranscribe.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visit_Site-white?style=flat-square&logo=googlechrome&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit_Site-181717?style=flat-square&logo=googlechrome&logoColor=white"><img src="https://img.shields.io/badge/Visit_Site-181717?style=flat-square&logo=googlechrome&logoColor=white" height="18"/></picture></a></sub>
 * **Live SaaS**: Full-stack lecture transcription platform with credit-based billing (Lemon Squeezy) and a Chrome Extension on the Web Store for one-click LMS & YouTube transcription.
 * **AI Agent**: LangGraph-based router dispatching to specialized nodes (note/exam/prompt/QA), Gemini 2.5 Flash streaming with automatic model fallback on rate limits.
